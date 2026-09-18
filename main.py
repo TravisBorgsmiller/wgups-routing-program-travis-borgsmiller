@@ -9,7 +9,7 @@ import datetime
 
 
 # ==============================================================================
-# PART A & B: CUSTOM CHAINING HASH TABLE (NO BUILT-IN DICTIONARY / EXTERNAL LIBS)
+# PART A & B: CUSTOM CHAINING HASH TABLEs
 # ==============================================================================
 
 class ChainingHashTable:
